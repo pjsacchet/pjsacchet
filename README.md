@@ -1,4 +1,4 @@
-## Hello, friend
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F700&random=false&width=435&lines=Hello%2C+friend)](https://git.io/typing-svg)
 
 ### About Me
 I try my best to commit new stuff but have more ideas than I do time. I enjoy offensive techniques and research, primarily involving things with Windows. 

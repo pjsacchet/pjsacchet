@@ -20,7 +20,7 @@ I try my best to commit new stuff but have more ideas than I do time. I enjoy of
 </a>
 </br>
 
-## Ideas
+## Projects
 <a href="https://github.com/pjsacchet/Windows-RAT">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjsacchet&repo=Windows-RAT&show_owner=false&theme=dark" />
 </a>
@@ -39,17 +39,19 @@ I try my best to commit new stuff but have more ideas than I do time. I enjoy of
 <a href="https://github.com/pjsacchet/Rootkits">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjsacchet&repo=Rootkits&show_owner=false&theme=dark" />
 </a>
-<a href="https://github.com/pjsacchet/Windows-Reversing">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjsacchet&repo=Windows-Reversing&show_owner=false&theme=dark" />
+<a href="https://github.com/pjsacchet/Malicious-COM">
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjsacchet&repo=Malicious-COM&show_owner=false&theme=dark" />
 </a>
+
+## Research
 <a href="https://github.com/pjsacchet/Research-Notes">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjsacchet&repo=Research-Notes&show_owner=false&theme=dark" />
 </a>
 <a href="https://github.com/pjsacchet/Techniques">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjsacchet&repo=Techniques&show_owner=false&theme=dark" />
 </a>
-<a href="https://github.com/pjsacchet/Malicious-COM">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjsacchet&repo=Malicious-COM&show_owner=false&theme=dark" />
+<a href="https://github.com/pjsacchet/Windows-Reversing">
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjsacchet&repo=Windows-Reversing&show_owner=false&theme=dark" />
 </a>
 
 [linkedin]: https://www.linkedin.com/in/patrick-sacchet/

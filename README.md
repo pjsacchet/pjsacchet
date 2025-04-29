@@ -24,8 +24,8 @@ I try my best to commit new stuff but have more ideas than I do time. I enjoy of
 <a href="https://github.com/pjsacchet/Windows-RAT">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjsacchet&repo=Windows-RAT&show_owner=false&theme=dark" />
 </a>
-<a href="https://github.com/pjsacchet/Windows-COM">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjsacchet&repo=Windows-COM&show_owner=false&theme=dark" />
+<a href="https://github.com/pjsacchet/DotNet-Dump">
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjsacchet&repo=DotNet-Dump&show_owner=false&theme=dark" />
 </a>
 <a href="https://github.com/pjsacchet/PE-Parser">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjsacchet&repo=PE-Parser&show_owner=false&theme=dark" />
